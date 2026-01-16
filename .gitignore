@@ -1,0 +1,22 @@
+#virtual environment
+.venv
+venv
+le_project
+.le_project
+
+#data
+data
+raw 
+cleaned
+processed
+.csv
+
+
+#python cache
+__pycache__/
+*.pyc
+
+
+#os files
+.DS_Store
+Thumbs.db
