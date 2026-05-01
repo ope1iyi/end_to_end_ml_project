@@ -16,7 +16,6 @@ processed
 __pycache__/
 *.pyc
 
-
 #os files
 .DS_Store
 Thumbs.db
